@@ -1,0 +1,54 @@
+#try{
+    font-family:  Calibri, 'Trebuchet MS', sans-serif; 
+    max-width: 50%;
+    margin: auto;
+    display: flex;
+
+}
+
+.left-part{
+    width: 30%; 
+    float:left; 
+    background-color: #313335;
+     height: 448%; 
+
+}
+
+div > h4{
+    margin-bottom: 5px;
+}
+
+.left-part > div{
+    padding-left: 20; 
+    color:white; 
+    font-size: small;
+}
+
+color{
+    color:grey;
+}
+
+.right{
+    float:right; background-color: azure; 
+    
+}
+
+.right > div{
+    padding-left: 30;
+    /* display: flex; */
+    justify-content: flex-end;
+}
+
+hr{
+    width: 15%; 
+    float: left;
+}
+
+font{
+    font-size: small;
+}
+
+footer{
+    text-align: right;
+    background: lightpink;
+}
