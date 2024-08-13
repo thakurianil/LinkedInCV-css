@@ -8,6 +8,9 @@
 
 .left-part{
     background-image: url(https://st2.depositphotos.com/1006006/6432/i/450/depositphotos_64323455-stock-photo-focus-on-asking-how.jpg);
+    position:sticky;
+    top: 0;
+
 }
 
 div > h4{
