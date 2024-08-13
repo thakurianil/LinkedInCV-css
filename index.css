@@ -3,12 +3,11 @@
     max-width: 80%;
     margin: auto;
     display: flex;
+    height: 100%;
 }
 
 .left-part{
     background-image: url(https://st2.depositphotos.com/1006006/6432/i/450/depositphotos_64323455-stock-photo-focus-on-asking-how.jpg);
-    
-    
 }
 
 div > h4{
@@ -26,8 +25,7 @@ color{
 }
 
 .right{
-    float:right; background-color: azure; 
-    
+    background-color: azure; 
 }
 
 .right > div{
